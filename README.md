@@ -1,10 +1,10 @@
-# GTA SA Steam Idler
+# GTA:SA Steam Idler
 
 This tool helps you log hours on Grand Theft Auto: San Andreas (GTA:SA) on Steam while playing Multi Theft Auto: San Andreas (MTA:SA).
 
-Since MTA:SA no longer supports third-party launchers, you need to start MTA:SA first. After that, launch GTA:SA through Steam, which will activate the idler.
+Since MTA:SA no longer supports third-party launchers, you need to start MTA:SA first. After that, launch GTA:SA through Steam, which will open this launcher.
 
-You can also use this tool to launch the regular GTA:SA game directly.
+You can also use this tool to launch regular GTA:SA.
 
 ## Files
 
@@ -36,8 +36,10 @@ You can also use this tool to launch the regular GTA:SA game directly.
 
 ## How to use
 
-1. Head over to your GTA:SA Steam folder (`..\Steam\steamapps\common\Grand Theft Auto San Andreas`) and rename `gta-sa.exe` to `gta_sa.exe`.
+1. Compile the source code or download the latest release.
 
-2. Copy the compiled `gta-sa.exe` to your GTA:SA Steam folder.
+2. Head over to your GTA:SA Steam folder (`..\Steam\steamapps\common\Grand Theft Auto San Andreas`) and rename `gta-sa.exe` to `gta_sa.exe`.
 
-3. Launch the game via Steam.
+3. Copy the compiled/downloaded `gta-sa.exe` to your GTA:SA Steam folder.
+
+4. Launch the game via Steam.
