@@ -25,6 +25,7 @@ LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam) 
                     MessageBoxW(hwnd, L"gta_sa.exe not found!", L"Error", MB_OK | MB_ICONERROR);
                 } else {
                     ShellExecuteW(hwnd, L"open", L"gta_sa.exe", NULL, NULL, SW_SHOWNORMAL);
+                    PostQuitMessage(0);
                 }
                 return 0;
             }
