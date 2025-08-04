@@ -6,6 +6,8 @@ Since MTA:SA no longer supports third-party launchers, you need to start MTA:SA 
 
 You can also use this tool to launch regular GTA:SA.
 
+<img width="374" height="158" alt="image" src="https://github.com/user-attachments/assets/b2b7c2ec-f122-4263-8258-19f14716fc32" />
+
 ## Files
 
 - `main.cpp` — Main source code.
