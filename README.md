@@ -9,8 +9,8 @@ You can also use this tool to launch the regular GTA:SA game directly.
 ## Files
 
 - `main.cpp` — Main source code.
-- `resource.h` — Resource header (defines icon resource ID).
-- `resource.rc` — Resource script (embeds the icon).
+- `resource.h` — Resource header.
+- `resource.rc` — Resource script.
 - `icon.ico` — Application icon.
 
 ## How to Build (MinGW/g++)
@@ -36,8 +36,8 @@ You can also use this tool to launch the regular GTA:SA game directly.
 
 ## How to use
 
-Head over to your GTA:SA Steam folder (`..\Steam\steamapps\common\Grand Theft Auto San Andreas`) and rename `gta-sa.exe` to `gta_sa.exe`.
+1. Head over to your GTA:SA Steam folder (`..\Steam\steamapps\common\Grand Theft Auto San Andreas`) and rename `gta-sa.exe` to `gta_sa.exe`.
 
-Copy the compiled `gta-sa.exe` to your GTA:SA Steam folder.
+2. Copy the compiled `gta-sa.exe` to your GTA:SA Steam folder.
 
-Launch the game via Steam.
+3. Launch the game via Steam.
